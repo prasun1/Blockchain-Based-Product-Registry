@@ -1,1 +1,2 @@
-# Blockchain-Based-Product-Registry
+# cmpe273-Project
+Repository for CMPE273
